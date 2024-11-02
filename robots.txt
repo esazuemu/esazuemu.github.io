@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esazuemu.github.io/WJm/sitemap_index.txt
+Sitemap: https://esazuemu.github.io/Zor/sitemap_index.txt
+Sitemap: https://esazuemu.github.io/duC/sitemap_index.txt
+Sitemap: https://esazuemu.github.io/vhW/sitemap_index.txt
